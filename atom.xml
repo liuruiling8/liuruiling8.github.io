@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://liu-ruiling.github.io</id>
+    <id>https://liu-ruiling.github.io/liu-ruiling/</id>
     <title>Liuruiling</title>
-    <updated>2020-09-09T06:44:45.144Z</updated>
+    <updated>2020-09-09T06:45:35.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://liu-ruiling.github.io"/>
-    <link rel="self" href="https://https://liu-ruiling.github.io/atom.xml"/>
+    <link rel="alternate" href="https://liu-ruiling.github.io/liu-ruiling/"/>
+    <link rel="self" href="https://liu-ruiling.github.io/liu-ruiling/atom.xml"/>
     <subtitle>Hello world!</subtitle>
-    <logo>https://https://liu-ruiling.github.io/images/avatar.png</logo>
-    <icon>https://https://liu-ruiling.github.io/favicon.ico</icon>
+    <logo>https://liu-ruiling.github.io/liu-ruiling/images/avatar.png</logo>
+    <icon>https://liu-ruiling.github.io/liu-ruiling/favicon.ico</icon>
     <rights>All rights reserved 2020, Liuruiling</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://liu-ruiling.github.io/post/hello-gridea/</id>
-        <link href="https://https://liu-ruiling.github.io/post/hello-gridea/">
+        <id>https://liu-ruiling.github.io/liu-ruiling/post/hello-gridea/</id>
+        <link href="https://liu-ruiling.github.io/liu-ruiling/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
